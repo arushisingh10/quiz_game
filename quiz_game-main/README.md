@@ -8,7 +8,7 @@ https://quiz-app-12ff4.web.app/
 # Installation
 
 ```
-  git clone https://github.com/_/quiz_game
+  git clone https://github.com/arushisingh10/quiz_game
   npm install
   npm start
 ```
